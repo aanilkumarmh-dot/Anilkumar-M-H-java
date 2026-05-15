@@ -1,15 +1,6 @@
-# Anilkumar-M-H-java
+# AnilkumarMH-lab4
 projectcode
 
-
-
-lab1: https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/1a.png
-    :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p2.png
-     :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p3.png
-     :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p4.png
-      :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p5.png
-      :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p6.png
-      :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p7.png
-       :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p8.png
-         :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p9.png
-         :https://github.com/aanilkumarmh-dot/Anilkumar-M-H-java/blob/main/p10.png
+lab4: https://github.com/aanilkumarmh-dot/AnilkumarMH-lab4/blob/main/4a.png
+https://github.com/aanilkumarmh-dot/AnilkumarMH-lab4/blob/main/4b.png
+https://github.com/aanilkumarmh-dot/AnilkumarMH-lab4/blob/main/4c.png
