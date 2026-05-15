@@ -1,6 +1,8 @@
-# AnilkumarMH-lab4
-projectcode
+# Anilkumarmh-lab8
 
-lab4: https://github.com/aanilkumarmh-dot/AnilkumarMH-lab4/blob/main/4a.png
-https://github.com/aanilkumarmh-dot/AnilkumarMH-lab4/blob/main/4b.png
-https://github.com/aanilkumarmh-dot/AnilkumarMH-lab4/blob/main/4c.png
+
+https://github.com/aanilkumarmh-dot/Anilkumarmh-lab8/blob/main/lab8.jpg
+
+
+https://github.com/aanilkumarmh-dot/Anilkumarmh-lab8/blob/main/lab8b.jpg
+
